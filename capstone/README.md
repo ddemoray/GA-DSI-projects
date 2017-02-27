@@ -1,1 +1,1 @@
-This folder contains my working iPython Notebooks and presentation deck from my capstone project.
+This folder contains my working iPython Notebooks and Keynote from my capstone project.
